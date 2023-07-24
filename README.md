@@ -45,4 +45,4 @@ Please feel free to send me your ideas or suggestions, feedback or feature reque
 
 ##Licence
 
-Flicks is released under the MIT licence. 
+Snake is released under the MIT licence. 
