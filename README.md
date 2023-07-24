@@ -1,7 +1,7 @@
 ##Snake JS 
 
-![image]((https://github.com/G-don/SnakeJS/blob/main/VISUALS/1.png))
-![image]((https://github.com/G-don/SnakeJS/blob/main/VISUALS/2.png))
+![image](https://github.com/G-don/SnakeJS/blob/main/VISUALS/1.png)
+![image](https://github.com/G-don/SnakeJS/blob/main/VISUALS/2.png)
 
 ##TechStack
 
